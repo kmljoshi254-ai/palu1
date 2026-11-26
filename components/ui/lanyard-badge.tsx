@@ -315,7 +315,7 @@ export default function LanyardBadge({
   subtitle = "Special Birthday Edition",
   name = "palu",
   role = "Birthday Girl · VIP",
-  photoUrl = "/ref/girl.jpg",
+  photoUrl = "/ref/girl1.jpg",
   strapText = "happy birthday palu",
   strapLabel = "VIP PASS",
   strapColor = "#141312",
