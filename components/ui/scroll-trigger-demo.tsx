@@ -13,13 +13,13 @@ import {
 const IMAGES_1 = [
   '/ref/girl1.jpg',
   '/ref/girl2.jpg',
-  '/ref/girl3.jpg',
+  '/ref/girl6.jpg',
   '/ref/girl4.jpg',
 ];
 const IMAGES_2 = [
   '/ref/girl.jpg',
   '/ref/girl5.jpg',
-  '/ref/girl6.jpg',
+  '/ref/girl3.jpg',
   '/ref/girl7.jpg',
 ];
 const IMAGES_3 = [
