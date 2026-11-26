@@ -3,6 +3,7 @@
 import { useEffect } from "react";
 import { balloons, textBalloons } from "balloons-js";
 
+
 export default function BalloonsEffect() {
   useEffect(() => {
     // Regular balloons start immediately
