@@ -185,7 +185,7 @@ export default function DemoOne() {
 
       {/* Revealed Photo Layer */}
       <img
-        src="/ref/girl.jpg"
+        src="/ref/girl13.jpg"
         alt="Birthday Girl Sweety"
         className="absolute inset-0 w-full h-full object-cover object-[center_20%]"
       />
