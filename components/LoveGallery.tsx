@@ -14,7 +14,7 @@ const handwriting = Caveat({
 
 
 const cards = [
-  { src: "/ref/girl2.jpg", isVideo: false, caption: "Cutie 🥹" },
+  { src: "/ref/girl2.jpg", isVideo: false, caption: "Sweety 🤍" },
   { src: "/ref/girl3.jpg", isVideo: false, caption: "Baddie 😎" },
   { src: "/ref/girl4.jpg", isVideo: false, caption: "Pretty ✨" },
   { src: "/ref/girl5.jpg", isVideo: false, caption: "My Love 🤍" },
