@@ -430,7 +430,6 @@
     <span class="reveal-flash" id="revealFlash"></span>
   </button>
 
-  <span class="corner br" id="liveReadout">—</span>
 </div>
 
 <div class="ember-layer" id="emberLayer"></div>
@@ -1002,11 +1001,7 @@
       document.getElementById('musicPlayer').classList.add('is-visible');
     }, null, '<');
 
-  // ---------------- live readout tick ----------------
-  setInterval(() => {
-    const p = computeParts();
-    document.getElementById('liveReadout').textContent = readout(p);
-  }, 1000);
+
 
   // ---------------- spotify-style mini player controls ----------------
   const bgMusic = document.getElementById('bgMusic');
